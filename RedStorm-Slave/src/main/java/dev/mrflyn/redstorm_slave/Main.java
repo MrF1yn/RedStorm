@@ -1,4 +1,4 @@
-package dev.mrflyn;
+package dev.mrflyn.redstorm_slave;
 
 public class Main {
     public static void main(String[] args) {
