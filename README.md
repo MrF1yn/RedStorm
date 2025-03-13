@@ -1,5 +1,7 @@
 # RedStorm
 
+🔥 **"Unleash the Storm. Test Without Limits."** 🌩️
+
 ## 🚀 Overview
 The **RedStorm** is a distributed load-testing tool that allows a **master node** to coordinate multiple **slave nodes** to perform HTTP stress testing. It utilizes **Redis Pub/Sub** for task distribution and a **heartbeat system** to monitor active slaves.
 
